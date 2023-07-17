@@ -18,7 +18,7 @@ Rashwanth-Drag and Drop Site is a web application that enables users to easily d
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Drag-and-drop/
+     https://rashwanthashok.github.io/Drag-and-Drop/
 ## Geeting Started
 
 To use the Rashwanth Drag & Drop web page, follow these steps:
