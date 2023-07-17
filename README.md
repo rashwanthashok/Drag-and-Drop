@@ -70,6 +70,10 @@ To use the Rashwanth Drag & Drop web page, follow these steps:
 
 - Styling with a blue background for list items and a white background for the containers.
 
+
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e5a5720-2e4b-4039-ad9e-1cddd091923a/deploy-status)](https://app.netlify.com/sites/jsprojects29-drag-and-drop/deploys)
 ## Contributing
 
 Contributions are always welcome!
